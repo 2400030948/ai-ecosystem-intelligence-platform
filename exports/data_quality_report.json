@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-08-15T10:00:39.601312+00:00",
+  "database_path": "/app/applet/backend/ai_intelligence.db",
+  "metrics": {
+    "startups": {
+      "total_records": 1259,
+      "health_status": "WARNINGS_FOUND"
+    },
+    "products": {
+      "total_records": 1004,
+      "health_status": "PASSED"
+    },
+    "research_papers": {
+      "total_records": 1305,
+      "health_status": "PASSED"
+    },
+    "jobs": {
+      "total_records": 16,
+      "health_status": "PASSED"
+    },
+    "news": {
+      "total_records": 217,
+      "health_status": "WARNINGS_FOUND"
+    },
+    "entity_mappings": {
+      "total_records": 1185,
+      "health_status": "PASSED"
+    }
+  },
+  "issues_found": {
+    "startups": {
+      "missing_source_urls": 0,
+      "invalid_urls": 5,
+      "missing_required_fields": 0,
+      "invalid_timestamps": 0,
+      "older_than_24h": 0,
+      "invalid_github_stars": 0
+    },
+    "products": {
+      "missing_source_urls": 0,
+      "invalid_urls": 0,
+      "missing_required_fields": 0,
+      "invalid_timestamps": 0,
+      "older_than_24h": 0,
+      "invalid_github_stars": 0
+    },
+    "research_papers": {
+      "missing_source_urls": 0,
+      "invalid_urls": 0,
+      "missing_required_fields": 0,
+      "invalid_timestamps": 0,
+      "older_than_24h": 0,
+      "invalid_github_stars": 0
+    },
+    "jobs": {
+      "missing_source_urls": 0,
+      "invalid_urls": 0,
+      "missing_required_fields": 0,
+      "invalid_timestamps": 0,
+      "older_than_24h": 0,
+      "invalid_github_stars": 0
+    },
+    "news": {
+      "missing_source_urls": 0,
+      "invalid_urls": 0,
+      "missing_required_fields": 0,
+      "invalid_timestamps": 0,
+      "older_than_24h": 1,
+      "invalid_github_stars": 0
+    },
+    "entity_mappings": {
+      "missing_source_urls": 0,
+      "invalid_urls": 0,
+      "missing_required_fields": 0,
+      "invalid_timestamps": 0,
+      "older_than_24h": 0,
+      "invalid_github_stars": 0
+    }
+  }
+}

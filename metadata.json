@@ -1,0 +1,6 @@
+{
+  "name": "AI Intelligence",
+  "description": "Enterprise AI ecosystem intelligence, entity resolution, ingestion pipeline, and analytics platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
